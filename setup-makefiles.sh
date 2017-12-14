@@ -17,9 +17,8 @@
 
 set -e
 
-export DEVICE=matisse3g
-export DEVICES="matisse3g matisselte matissewifi"
-export DEVICE_COMMON=matisse-common
+export DEVICE=millet3g
+export DEVICE_COMMON=millet-common
 export VENDOR=samsung
 
 ./../$DEVICE_COMMON/setup-makefiles.sh $@

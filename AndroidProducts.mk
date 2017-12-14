@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_matisse3g.mk
+    $(LOCAL_DIR)/full_millet3g.mk
